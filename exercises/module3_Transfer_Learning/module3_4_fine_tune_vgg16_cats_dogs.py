@@ -6,24 +6,22 @@ import os
 import numpy as np
 from keras.preprocessing.image import ImageDataGenerator
 from keras.applications import VGG16
-from keras import models
-from keras import layers
+from keras.models import Sequential
+from keras.layers import Dense,Flatten
 from keras import optimizers
 
 train_dir = './data/cats_and_dogs_small/train/'
 validation_dir = './data/cats_and_dogs_small/test/'
 
-conv_base = VGG16(weights='imagenet',
-                  include_top=False,
-                  input_shape=(150, 150, 3))
+conv_base = VGG16(weights='imagenet',include_top=False, input_shape=(150, 150, 3))
 
-model = models.Sequential()
+model = Sequential()
 model.add(conv_base)
-model.add(layers.Flatten())
-model.add(layers.Dense(256, activation='relu'))
-model.add(layers.Dense(1, activation='sigmoid'))
+model.add(Flatten())
+model.add(Dense(256, activation='relu'))
+model.add(Dense(1, activation='sigmoid'))
 
-# print(model.summary())
+print(model.summary())
 #print(conv_base.summary())
 
 conv_base.trainable = True

@@ -1,6 +1,6 @@
 # Advanced Computer Vision Training
 # Module 2 Convnet
-# CIFAR10 CNN exercise
+# Create Small dataset
 
 import os, shutil
 

@@ -9,19 +9,19 @@ import matplotlib.pyplot as plt
 train_cats_dir = './data/cats_and_dogs_small/train/cats'
 
 datagen = ImageDataGenerator(
-      rotation_range=40,
-      width_shift_range=0.2,
-      height_shift_range=0.2,
-      shear_range=0.2,
+      # rotation_range=40,
+      # width_shift_range=0.2,
+      # height_shift_range=0.2,
+      # shear_range=0.2,
       zoom_range=0.2,
-      horizontal_flip=True,
+      # horizontal_flip=True,
       fill_mode='nearest')
 
 from keras.preprocessing import image
 
 fnames = [os.path.join(train_cats_dir, fname) for fname in os.listdir(train_cats_dir)]
 
-# Pick one image to "augment"
+# P ick one image to "augment"
 img_path = fnames[3]
 
 # Read the image and resize it
@@ -40,7 +40,7 @@ for batch in datagen.flow(x, batch_size=1):
     plt.figure(i)
     imgplot = plt.imshow(image.array_to_img(batch[0]))
     i += 1
-    if i % 4 == 0:
+    if i % 10 == 0:
         break
 
 plt.show()

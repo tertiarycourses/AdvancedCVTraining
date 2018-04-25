@@ -11,8 +11,9 @@ from keras.models import Sequential
 from keras.layers import Dense, Conv2D,MaxPool2D,Dropout,Flatten
 
 # Step 1 Load the data
-
-(X_train, y_train), (X_test, y_test) = mnist.load_data()
+from keras.datasets import fashion_mnist
+(X_train, y_train), (X_test, y_test) = fashion_mnist.load_data()
+# (X_train, y_train), (X_test, y_test) = mnist.load_data()
 X_train = X_train.reshape(-1, 28, 28, 1)
 X_test = X_test.reshape(-1, 28, 28, 1)
 X_train = X_train.astype('float32')
@@ -40,11 +41,40 @@ print(model.summary())
 model.compile(loss='categorical_crossentropy',optimizer='adam',metrics=['accuracy'])
 
 # Step 4: Train the Model
-model.fit(X_train,y_train,epochs=2,batch_size=100)
+history = model.fit(X_train,y_train,epochs=3,
+	batch_size=100, validation_data=(X_test,y_test))
 
 # Step 5: Evalute the Model
-loss,accuracy = model.evaluate(X_test,y_test)
-print("Accuracy: %.2f%%" % (accuracy*100))
+# loss,accuracy = model.evaluate(X_test,y_test)
+# print("Accuracy: %.2f%%" % (accuracy*100))
+
+import matplotlib.pyplot as plt
+
+acc = history.history['acc']
+val_acc = history.history['val_acc']
+loss = history.history['loss']
+val_loss = history.history['val_loss']
+
+epochs = range(len(acc))
+
+plt.plot(epochs, acc, 'b', label='Training acc')
+plt.plot(epochs, val_acc, 'r', label='Validation acc')
+plt.title('model accuracy')
+plt.ylabel('accuracy')
+plt.xlabel('epoch')
+plt.legend()
+
+plt.figure()
+
+plt.plot(epochs, loss, 'b', label='Training loss')
+plt.plot(epochs, val_loss, 'r', label='Validation loss')
+plt.title('model loss')
+plt.ylabel('loss')
+plt.xlabel('epoch')
+
+plt.legend()
+
+plt.show()
 
 # Step 6: Save the Model
 model.save('mnist_cnn.h5')

@@ -5,6 +5,8 @@
 import os
 os.environ['TF_CPP_MIN_LOG_LEVEL']='2'
 
+# Step 1 Load the data
+
 import keras
 from keras.utils import np_utils
 from keras.datasets import cifar10
