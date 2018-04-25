@@ -8,7 +8,6 @@ from keras.preprocessing.image import ImageDataGenerator
 from keras.applications import VGG16
 from keras.models import Sequential
 from keras.layers import Dense,Flatten
-from keras import optimizers
 
 train_dir = './data/cats_and_dogs_small/train/'
 validation_dir = './data/cats_and_dogs_small/test/'
@@ -21,7 +20,7 @@ model.add(Flatten())
 model.add(Dense(256, activation='relu'))
 model.add(Dense(1, activation='sigmoid'))
 
-print(model.summary())
+#print(model.summary())
 #print(conv_base.summary())
 
 conv_base.trainable = True
@@ -56,16 +55,12 @@ for layer in conv_base.layers:
     else:
         layer.trainable = False
 
-model.compile(loss='binary_crossentropy',
-              optimizer=optimizers.RMSprop(lr=1e-5),
-              metrics=['acc'])
+model.compile(loss='binary_crossentropy',optimizer='adam',metrics=['accuracy'])
 
 history = model.fit_generator(
       train_generator,
-      steps_per_epoch=100,
-      epochs=2,
-      validation_data=validation_generator,
-      validation_steps=50)
+      epochs=10,
+      validation_data=validation_generator)
 
 model.save('cats_and_dogs_small_3.h5')
 
@@ -74,18 +69,24 @@ val_acc = history.history['val_acc']
 loss = history.history['loss']
 val_loss = history.history['val_loss']
 
+import matplotlib.pyplot as plt
+
 epochs = range(len(acc))
 
-plt.plot(epochs, acc, 'bo', label='Training acc')
+plt.plot(epochs, acc, 'r', label='Training acc')
 plt.plot(epochs, val_acc, 'b', label='Validation acc')
-plt.title('Training and validation accuracy')
-plt.legend()
+plt.title('Accuracy History')
+plt.ylabel('accuracy')
+plt.xlabel('epoch')
+plt.legend(['training','validation'])
 
 plt.figure()
 
-plt.plot(epochs, loss, 'bo', label='Training loss')
+plt.plot(epochs, loss, 'r', label='Training loss')
 plt.plot(epochs, val_loss, 'b', label='Validation loss')
-plt.title('Training and validation loss')
-plt.legend()
+plt.title('Loss History')
+plt.ylabel('loss')
+plt.xlabel('epoch')
+plt.legend(['training','validation'])
 
 plt.show()

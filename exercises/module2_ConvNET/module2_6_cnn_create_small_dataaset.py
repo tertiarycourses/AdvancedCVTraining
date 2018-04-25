@@ -11,40 +11,40 @@ original_dataset_dir = './data/original/train'
 # The directory where we will
 # store our smaller dataset
 base_dir = './data/cats_and_dogs_small'
-#os.mkdir(base_dir)
+os.mkdir(base_dir)
 
 # Directories for our training,
 # validation and test splits
 train_dir = os.path.join(base_dir, 'train')
-#os.mkdir(train_dir)
+os.mkdir(train_dir)
 validation_dir = os.path.join(base_dir, 'validation')
-#os.mkdir(validation_dir)
+os.mkdir(validation_dir)
 test_dir = os.path.join(base_dir, 'test')
-#os.mkdir(test_dir)
+os.mkdir(test_dir)
 
 # Directory with our training cat pictures
 train_cats_dir = os.path.join(train_dir, 'cats')
-#os.mkdir(train_cats_dir)
+os.mkdir(train_cats_dir)
 
 # Directory with our training dog pictures
 train_dogs_dir = os.path.join(train_dir, 'dogs')
-#os.mkdir(train_dogs_dir)
+os.mkdir(train_dogs_dir)
 
 # Directory with our validation cat pictures
 validation_cats_dir = os.path.join(validation_dir, 'cats')
-#os.mkdir(validation_cats_dir)
+os.mkdir(validation_cats_dir)
 
 # Directory with our validation dog pictures
 validation_dogs_dir = os.path.join(validation_dir, 'dogs')
-#os.mkdir(validation_dogs_dir)
+os.mkdir(validation_dogs_dir)
 
 # Directory with our validation cat pictures
 test_cats_dir = os.path.join(test_dir, 'cats')
-#os.mkdir(test_cats_dir)
+os.mkdir(test_cats_dir)
 
 # Directory with our validation dog pictures
 test_dogs_dir = os.path.join(test_dir, 'dogs')
-#os.mkdir(test_dogs_dir)
+os.mkdir(test_dogs_dir)
 
 # Copy first 1000 cat images to train_cats_dir
 fnames = ['cat.{}.jpg'.format(i) for i in range(1000)]

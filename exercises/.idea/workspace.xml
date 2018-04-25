@@ -11,11 +11,56 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="module3_4_fine_tune_vgg16_cats_dogs.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/module3_Transfer_Learning/module3_4_fine_tune_vgg16_cats_dogs.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-524">
+              <caret line="7" column="36" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="module2_5_cnn_create_small_dataaset.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/module2_ConvNET/module2_5_cnn_create_small_dataaset.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1092">
+              <caret line="44" column="11" selection-start-line="44" selection-start-column="11" selection-end-line="44" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="module2_4_cnn_cifar_ex.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/module2_ConvNET/module2_4_cnn_cifar_ex.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="213">
+              <caret line="25" column="17" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="module2_6_cnn_small_cats_dogs_dataset.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/module2_ConvNET/module2_6_cnn_small_cats_dogs_dataset.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="463">
-              <caret line="76" column="29" selection-start-line="76" selection-start-column="29" selection-end-line="76" selection-end-column="29" />
+            <state relative-caret-position="-65">
+              <caret line="25" selection-start-line="25" selection-end-line="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="module2_1_cnn_mnist.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/module2_ConvNET/module2_1_cnn_mnist.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="229">
+              <caret line="50" selection-start-line="50" selection-end-line="50" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="module2_3_cnn_fashsion_mnist_ex.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/module2_ConvNET/module2_3_cnn_fashsion_mnist_ex.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="290">
+              <caret line="10" selection-start-line="10" selection-end-line="11" selection-end-column="64" />
             </state>
           </provider>
         </entry>
@@ -23,17 +68,17 @@
       <file leaf-file-name="module2_7_data_augmentation.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/module2_ConvNET/module2_7_data_augmentation.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="236">
-              <caret line="32" selection-start-line="32" selection-end-line="33" selection-end-column="29" />
+            <state relative-caret-position="427">
+              <caret line="27" column="31" selection-start-line="27" selection-start-column="31" selection-end-line="27" selection-end-column="31" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="module2_7a_data_augmentation.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/module2_ConvNET/module2_7a_data_augmentation.py">
+      <file leaf-file-name="module2_8_cnn_cat_dog_data_augmentation.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/module2_ConvNET/module2_8_cnn_cat_dog_data_augmentation.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="490">
-              <caret line="17" selection-start-line="17" selection-end-line="17" />
+            <state relative-caret-position="754">
+              <caret line="26" column="20" selection-start-line="26" selection-start-column="20" selection-end-line="26" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -41,26 +86,17 @@
       <file leaf-file-name="module2_9_cnn_layer_viz.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/module2_ConvNET/module2_9_cnn_layer_viz.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="387">
-              <caret line="35" column="16" selection-start-line="35" selection-start-column="16" selection-end-line="35" selection-end-column="16" />
+            <state relative-caret-position="213">
+              <caret line="29" column="11" selection-start-line="29" selection-start-column="11" selection-end-line="29" selection-end-column="11" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="module2_1_cnn_mnist.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/module2_ConvNET/module2_1_cnn_mnist.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="26" selection-start-line="26" selection-end-line="35" selection-end-column="41" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="module3_4a_functional_api.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="module3_4a_functional_api.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/module3_Transfer_Learning/module3_4a_functional_api.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="522">
-              <caret line="18" column="28" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
+            <state relative-caret-position="329">
+              <caret line="13" column="16" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -70,12 +106,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/module3_CNN/module3_2_cnn_create_cat_dog.py" />
-        <option value="$PROJECT_DIR$/module3_CNN/module3_2c_data_augmentation.py" />
-        <option value="$PROJECT_DIR$/module3_CNN/module3_2d_cnn_cat_dog_data_augmentation.py" />
-        <option value="$PROJECT_DIR$/module3_CNN/module3_2b_cnn_cat_dog.py" />
-        <option value="$PROJECT_DIR$/module3_CNN/module3_4_cnn_create_cat_dog_dataaset.py" />
-        <option value="$PROJECT_DIR$/module4_Transfer_Learning/module4_1_tf_resnet50.py" />
         <option value="$PROJECT_DIR$/module4_Transfer_Learning/module4_2_tf_vgg16_challenge.py" />
         <option value="$PROJECT_DIR$/module4_Transfer_Learning/module4_3_tf_inceptionv3_challenge.py" />
         <option value="$PROJECT_DIR$/module4_Transfer_Learning/module4_5_keras_inceptionv3_fine_tune_challenge.py" />
@@ -104,30 +134,35 @@
         <option value="$PROJECT_DIR$/module2_ConvNET/module3_4_cnn_create_cat_dog_dataaset.py" />
         <option value="$PROJECT_DIR$/module2_ConvNET/module3_5_cnn_cat_dog.py" />
         <option value="$PROJECT_DIR$/module2_ConvNET/module3_6_cnn_cat_dog_data_augmentation.py" />
-        <option value="$PROJECT_DIR$/module2_ConvNET/module2_9_cnn_layer_viz.py" />
         <option value="$PROJECT_DIR$/module3_Transfer_Learning/module3_1_tf_vgg16.py" />
         <option value="$PROJECT_DIR$/module3_Transfer_Learning/module4_2_tf_resnet50_challenge.py" />
         <option value="$PROJECT_DIR$/module3_Transfer_Learning/demo5.py" />
         <option value="$PROJECT_DIR$/module3_Transfer_Learning/module4_3_fune_tune_cats_dogs.py" />
         <option value="$PROJECT_DIR$/module3_Transfer_Learning/module3_4_fine_tune_vgg.py" />
         <option value="$PROJECT_DIR$/module3_Transfer_Learning/module3_5_fine_tune_resnet_exercise.py" />
-        <option value="$PROJECT_DIR$/module2_ConvNET/demo.py" />
         <option value="$PROJECT_DIR$/module2_ConvNET/module2_4_cnn_cifar_challenge.py" />
-        <option value="$PROJECT_DIR$/module2_ConvNET/module2_5_cnn_create_small_dataaset.py" />
-        <option value="$PROJECT_DIR$/module2_ConvNET/module2_6_cnn_small_cats_dogs_dataset.py" />
         <option value="$PROJECT_DIR$/module3_Transfer_Learning/module3_4a_functional_api.py" />
-        <option value="$PROJECT_DIR$/module3_Transfer_Learning/module3_4_fine_tune_vgg16_cats_dogs.py" />
-        <option value="$PROJECT_DIR$/module2_ConvNET/module2_7_data_augmentation.py" />
         <option value="$PROJECT_DIR$/module2_ConvNET/module2_7a_data_augmentation.py" />
         <option value="$PROJECT_DIR$/module2_ConvNET/module2_3a_cnn_fashsion_mnist.py" />
+        <option value="$PROJECT_DIR$/module2_ConvNET/demo.py" />
+        <option value="$PROJECT_DIR$/module2_ConvNET/module2_5_cnn_create_small_dataaset.py" />
+        <option value="$PROJECT_DIR$/module2_ConvNET/module2_10_cnn_layer_viz.py" />
+        <option value="$PROJECT_DIR$/module4_R-CNN/mask_rnn.py" />
+        <option value="$PROJECT_DIR$/module2_ConvNET/module2_3b_cnn_fashion_mnist_test.py" />
+        <option value="$PROJECT_DIR$/module2_ConvNET/module2_7_data_augmentation.py" />
         <option value="$PROJECT_DIR$/module2_ConvNET/module2_1_cnn_mnist.py" />
+        <option value="$PROJECT_DIR$/module2_ConvNET/module2_3_cnn_fashsion_mnist_ex.py" />
+        <option value="$PROJECT_DIR$/module2_ConvNET/module2_4_cnn_cifar_ex.py" />
+        <option value="$PROJECT_DIR$/module2_ConvNET/module2_8_cnn_cat_dog_data_augmentation.py" />
+        <option value="$PROJECT_DIR$/module2_ConvNET/module2_6_cnn_small_cats_dogs_dataset.py" />
+        <option value="$PROJECT_DIR$/module2_ConvNET/module2_9_cnn_layer_viz.py" />
+        <option value="$PROJECT_DIR$/module3_Transfer_Learning/module3_4_fine_tune_vgg16_cats_dogs.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="x" value="2" />
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="23" />
-    <option name="width" value="1698" />
+    <option name="width" value="1680" />
     <option name="height" value="962" />
   </component>
   <component name="ProjectView">
@@ -153,17 +188,6 @@
               <item name="exercises" type="462c0819:PsiDirectoryNode" />
               <item name="module3_Transfer_Learning" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="exercises" type="b2602c69:ProjectViewProjectNode" />
-              <item name="exercises" type="462c0819:PsiDirectoryNode" />
-              <item name="module3_Transfer_Learning" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="exercises" type="b2602c69:ProjectViewProjectNode" />
-              <item name="exercises" type="462c0819:PsiDirectoryNode" />
-              <item name="module4_R-CNN" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -176,6 +200,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/module4_R-CNN" />
       <recent name="$PROJECT_DIR$/module2_ConvNET" />
       <recent name="$PROJECT_DIR$/module4_Transfer_Learning" />
       <recent name="$PROJECT_DIR$/module3_ConvNET" />
@@ -197,43 +222,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.module2_1_cnn_mnist">
-    <configuration name="module2_1_cnn_mnist" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="exercises" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/module2_ConvNET" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/module2_ConvNET/module2_1_cnn_mnist.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="module2_6_cnn_small_cats_dogs_dataset" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="exercises" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/module2_ConvNET" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/module2_ConvNET/module2_6_cnn_small_cats_dogs_dataset.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.module3_4_fine_tune_vgg16_cats_dogs">
     <configuration name="module2_7_data_augmentation" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="exercises" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -252,7 +241,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="module2_7a_data_augmentation" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="module2_8_cnn_cat_dog_data_augmentation" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="exercises" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -264,13 +253,31 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/module2_ConvNET/module2_7a_data_augmentation.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/module2_ConvNET/module2_8_cnn_cat_dog_data_augmentation.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="module3_4a_functional_api" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="module2_9_cnn_layer_viz" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="exercises" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/module2_ConvNET" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/module2_ConvNET/module2_9_cnn_layer_viz.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="module3_4_fine_tune_vgg16_cats_dogs" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="exercises" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -282,7 +289,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/module3_Transfer_Learning/module3_4a_functional_api.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/module3_Transfer_Learning/module3_4_fine_tune_vgg16_cats_dogs.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -324,22 +331,40 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="pyplot" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="exercises" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/matplotlib" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/matplotlib/pyplot.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <list>
       <item itemvalue="Python.module4_4_tf_cats_dogs_data_augmentation" />
       <item itemvalue="Python.module4_4_tf_cats_dogs" />
-      <item itemvalue="Python.module2_6_cnn_small_cats_dogs_dataset" />
-      <item itemvalue="Python.module3_4a_functional_api" />
       <item itemvalue="Python.module2_7_data_augmentation" />
-      <item itemvalue="Python.module2_7a_data_augmentation" />
-      <item itemvalue="Python.module2_1_cnn_mnist" />
+      <item itemvalue="Python.module2_8_cnn_cat_dog_data_augmentation" />
+      <item itemvalue="Python.module2_9_cnn_layer_viz" />
+      <item itemvalue="Python.pyplot" />
+      <item itemvalue="Python.module3_4_fine_tune_vgg16_cats_dogs" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.module2_1_cnn_mnist" />
-        <item itemvalue="Python.module2_7a_data_augmentation" />
+        <item itemvalue="Python.module3_4_fine_tune_vgg16_cats_dogs" />
+        <item itemvalue="Python.module2_9_cnn_layer_viz" />
+        <item itemvalue="Python.pyplot" />
+        <item itemvalue="Python.module2_8_cnn_cat_dog_data_augmentation" />
         <item itemvalue="Python.module2_7_data_augmentation" />
-        <item itemvalue="Python.module3_4a_functional_api" />
-        <item itemvalue="Python.module2_6_cnn_small_cats_dogs_dataset" />
       </list>
     </recent_temporary>
   </component>
@@ -366,12 +391,14 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
+    <frame x="0" y="23" width="1680" height="962" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21097046" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25195903" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32947975" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3723077" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32947975" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.29364163" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Python Console" order="7" weight="0.32947975" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -384,7 +411,6 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -402,28 +428,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/module3_Transfer_Learning/module3_4_fine_tune_vgg16_cats_dogs.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1376">
-          <caret line="32" column="20" lean-forward="true" selection-start-line="32" selection-start-column="20" selection-end-line="32" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/module3_ConvNET/module3_3_cnn_cifar_challenge.py" />
-    <entry file="file://$PROJECT_DIR$/module3_ConvNET/demo.py" />
-    <entry file="file://$PROJECT_DIR$/module3_ConvNET/module3_4_cnn_cifar.py" />
-    <entry file="file://$PROJECT_DIR$/module3_ConvNET/module3_4_cnn_create_cat_dog_dataaset.py" />
-    <entry file="file://$PROJECT_DIR$/module3_ConvNET/module3_5_data_augmentation.py" />
-    <entry file="file://$PROJECT_DIR$/module3_ConvNET/module3_6_cnn_cat_dog_data_augmentation.py" />
-    <entry file="file://$PROJECT_DIR$/module3_ConvNET/module3_5_cnn_cat_dog.py" />
-    <entry file="file://$PROJECT_DIR$/module3_ConvNET/module3_7_cnn_layer_viz.py" />
-    <entry file="file://$PROJECT_DIR$/module4_Transfer_Learning/demo5.py" />
-    <entry file="file://$PROJECT_DIR$/module4_Transfer_Learning/module4_4_fine_tune_Inceptionv3_exercise.py" />
-    <entry file="file://$PROJECT_DIR$/module4_Transfer_Learning/module4_3_fune_tune_cats_dogs.py" />
-    <entry file="file://$PROJECT_DIR$/module4_Transfer_Learning/module4_3_fune_tune_resnet.py" />
-    <entry file="file://$PROJECT_DIR$/module4_Transfer_Learning/module4_5_vgg16_layer_viz.py" />
-    <entry file="file://$PROJECT_DIR$/module2_ConvNET/module3_2a_cnn_exercises.py" />
-    <entry file="file://$PROJECT_DIR$/module2_ConvNET/module3_4_cnn_cifar.py" />
     <entry file="file://$PROJECT_DIR$/module2_ConvNET/module3_4_cnn_create_cat_dog_dataaset.py" />
     <entry file="file://$PROJECT_DIR$/module2_ConvNET/module3_5_cnn_cat_dog.py" />
     <entry file="file://$PROJECT_DIR$/module2_ConvNET/module3_6_cnn_cat_dog_data_augmentation.py" />
@@ -433,13 +437,6 @@
     <entry file="file://$PROJECT_DIR$/module3_Transfer_Learning/module3_3_fune_tune_cats_dogs.py" />
     <entry file="file://$PROJECT_DIR$/module3_Transfer_Learning/module3_4_fine_tune_vgg.py" />
     <entry file="file://$PROJECT_DIR$/module3_Transfer_Learning/module3_6_fine_tune_Inceptionv3_exercise.py" />
-    <entry file="file://$PROJECT_DIR$/module2_ConvNET/demo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="9" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/module3_Transfer_Learning/module3_3_tf_densenet_exercise.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
@@ -454,32 +451,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/module2_ConvNET/module2_8_cnn_cat_dog_data_augmentation.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1954" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/module2_ConvNET/module2_2_cnn_mnist_live_demo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="58">
-          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/module3_Transfer_Learning/module3_4a_functional_api.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="522">
-          <caret line="18" column="28" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/module2_ConvNET/module2_5_cnn_create_small_dataaset.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="58">
-          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/module2_ConvNET/module2_4_cnn_cifar_challenge.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="58">
@@ -487,45 +458,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/module3_Transfer_Learning/module3_4_fine_tune_vgg16_cats_dogs.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-417">
-          <caret line="21" column="35" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/module2_ConvNET/module2_6_cnn_small_cats_dogs_dataset.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="463">
-          <caret line="76" column="29" selection-start-line="76" selection-start-column="29" selection-end-line="76" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/module3_Transfer_Learning/module3_1_tf_vgg16.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="10" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/module2_ConvNET/module2_7_data_augmentation.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="236">
-          <caret line="32" selection-start-line="32" selection-end-line="33" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/module2_ConvNET/module2_7a_data_augmentation.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="490">
           <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/module2_ConvNET/module2_9_cnn_layer_viz.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="387">
-          <caret line="35" column="16" selection-start-line="35" selection-start-column="16" selection-end-line="35" selection-end-column="16" />
         </state>
       </provider>
     </entry>
@@ -543,10 +479,179 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/module2_ConvNET/demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="944">
+          <caret line="49" column="30" selection-start-line="49" selection-start-column="30" selection-end-line="49" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module2_ConvNET/images/fashsion-mnist-shoe.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module3_Transfer_Learning/module3_1_tf_vgg16.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-139">
+          <caret line="21" selection-start-line="21" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module2_ConvNET/images/shoe.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module2_ConvNET/data/original/train/cat.4.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module2_ConvNET/data/original/train/cat.15.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module2_ConvNET/data/original/train/cat.19.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module2_ConvNET/data/original/train/cat.30.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module2_ConvNET/data/original/train/cat.85.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module2_ConvNET/data/cats_and_dogs_small/test/cats/cat.1503.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module2_ConvNET/data/cats_and_dogs_small/test/cats/cat.1511.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module2_ConvNET/data/original/train/cat.182.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module2_ConvNET/data/original/train/cat.164.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module2_ConvNET/data/original/train/cat.148.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module2_ConvNET/data/original/train/cat.133.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module2_ConvNET/data/original/train/cat.118.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module2_ConvNET/data/original/train/cat.98.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module2_ConvNET/data/original/train/cat.93.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/keras/layers/pooling.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4901">
+          <caret line="169" column="6" selection-start-line="169" selection-start-column="6" selection-end-line="169" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module4_R-CNN/mask_rnn.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module4_R-CNN/images/football.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module2_ConvNET/module2_2_cnn_mnist_live_demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-608">
+          <caret line="5" column="33" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module2_ConvNET/module2_10_cnn_layer_viz.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="9" selection-start-line="9" selection-end-line="9" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module2_ConvNET/module2_3b_cnn_fashion_mnist_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="344">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module2_ConvNET/module2_6_cnn_small_cats_dogs_dataset.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-65">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module2_ConvNET/module2_9_data_augmentation_cats_dogs.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module2_ConvNET/module2_5_cnn_create_small_dataaset.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1092">
+          <caret line="44" column="11" selection-start-line="44" selection-start-column="11" selection-end-line="44" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module2_ConvNET/module2_7_data_augmentation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="427">
+          <caret line="27" column="31" selection-start-line="27" selection-start-column="31" selection-end-line="27" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module2_ConvNET/module2_3_cnn_fashsion_mnist_ex.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="10" selection-start-line="10" selection-end-line="11" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module2_ConvNET/module2_4_cnn_cifar_ex.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="25" column="17" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module2_ConvNET/module2_8_cnn_cat_dog_data_augmentation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="754">
+          <caret line="26" column="20" selection-start-line="26" selection-start-column="20" selection-end-line="26" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/matplotlib/pyplot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="5" column="15" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module2_ConvNET/module2_9_cnn_layer_viz.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="29" column="11" selection-start-line="29" selection-start-column="11" selection-end-line="29" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/module2_ConvNET/module2_1_cnn_mnist.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="26" selection-start-line="26" selection-end-line="35" selection-end-column="41" />
+        <state relative-caret-position="229">
+          <caret line="50" selection-start-line="50" selection-end-line="50" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module3_Transfer_Learning/module3_4_fine_tune_vgg16_cats_dogs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-524">
+          <caret line="7" column="36" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module3_Transfer_Learning/module3_4a_functional_api.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="329">
+          <caret line="13" column="16" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
         </state>
       </provider>
     </entry>
