@@ -47,42 +47,42 @@ test_dogs_dir = os.path.join(test_dir, 'dogs')
 os.mkdir(test_dogs_dir)
 
 # Copy first 1000 cat images to train_cats_dir
-fnames = ['cat.{}.jpg'.format(i) for i in range(1000)]
+fnames = ['cat.{}.jpg'.format(i) for i in range(50)]
 for fname in fnames:
     src = os.path.join(original_dataset_dir, fname)
     dst = os.path.join(train_cats_dir, fname)
     shutil.copyfile(src, dst)
 
 # Copy next 500 cat images to validation_cats_dir
-fnames = ['cat.{}.jpg'.format(i) for i in range(1000, 1500)]
+fnames = ['cat.{}.jpg'.format(i) for i in range(50, 100)]
 for fname in fnames:
     src = os.path.join(original_dataset_dir, fname)
     dst = os.path.join(validation_cats_dir, fname)
     shutil.copyfile(src, dst)
 
 # Copy next 500 cat images to test_cats_dir
-fnames = ['cat.{}.jpg'.format(i) for i in range(1500, 2000)]
+fnames = ['cat.{}.jpg'.format(i) for i in range(100, 150)]
 for fname in fnames:
     src = os.path.join(original_dataset_dir, fname)
     dst = os.path.join(test_cats_dir, fname)
     shutil.copyfile(src, dst)
 
 # Copy first 1000 dog images to train_dogs_dir
-fnames = ['dog.{}.jpg'.format(i) for i in range(1000)]
+fnames = ['dog.{}.jpg'.format(i) for i in range(50)]
 for fname in fnames:
     src = os.path.join(original_dataset_dir, fname)
     dst = os.path.join(train_dogs_dir, fname)
     shutil.copyfile(src, dst)
 
 # Copy next 500 dog images to validation_dogs_dir
-fnames = ['dog.{}.jpg'.format(i) for i in range(1000, 1500)]
+fnames = ['dog.{}.jpg'.format(i) for i in range(50, 100)]
 for fname in fnames:
     src = os.path.join(original_dataset_dir, fname)
     dst = os.path.join(validation_dogs_dir, fname)
     shutil.copyfile(src, dst)
 
 # Copy next 500 dog images to test_dogs_dir
-fnames = ['dog.{}.jpg'.format(i) for i in range(1500, 2000)]
+fnames = ['dog.{}.jpg'.format(i) for i in range(100, 150)]
 for fname in fnames:
     src = os.path.join(original_dataset_dir, fname)
     dst = os.path.join(test_dogs_dir, fname)

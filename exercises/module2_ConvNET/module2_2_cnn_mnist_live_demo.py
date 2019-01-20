@@ -2,10 +2,6 @@
 # Module 2 Convnet
 # MNIST Live Demo
 
-import os
-os.environ['TF_CPP_MIN_LOG_LEVEL']='2'
-os.environ['TF_ENABLE_WINOGRAD_NONE_USED']='1'
-
 from keras.models import load_model
 import numpy as np
 import tkinter as tk

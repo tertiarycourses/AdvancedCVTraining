@@ -40,9 +40,12 @@ validation_generator = test_datagen.flow_from_directory(
         batch_size=100,
         class_mode='binary')
 
-history = model.fit_generator(train_generator,epochs=5,
-                              validation_data=validation_generator)
-
+history = model.fit_generator(
+      train_generator,
+      steps_per_epoch=100,
+      epochs=10,
+      validation_data=validation_generator,
+      validation_steps=50)
 
 import matplotlib.pyplot as plt
 

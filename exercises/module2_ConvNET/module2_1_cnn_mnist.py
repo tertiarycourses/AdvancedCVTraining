@@ -1,9 +1,6 @@
 # Advanced Computer Vision Training
 # Module 2 Convnet
-# CNN Model on Fashsion MNIST dataset
-
-import os
-os.environ['TF_CPP_MIN_LOG_LEVEL']='2'
+# CNN Model on  MNIST dataset
 
 import keras
 

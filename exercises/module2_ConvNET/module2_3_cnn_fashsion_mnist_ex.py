@@ -2,14 +2,12 @@
 # Module 2 Convnet
 # CNN Model on Fashion MNIST dataset
 
-import os
-os.environ['TF_CPP_MIN_LOG_LEVEL']='2'
-
 import keras
 
 # Step 1 Load the data
 from keras.datasets import fashion_mnist
 (X_train, y_train), (X_test, y_test) = fashion_mnist.load_data()
+
 
 X_train = X_train.reshape(-1, 28, 28, 1)
 X_test = X_test.reshape(-1, 28, 28, 1)
