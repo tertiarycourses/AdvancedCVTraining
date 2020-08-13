@@ -9,43 +9,42 @@ https://www.tertiarycourses.com.sg/advanced-computer-vision-tensorflow.html
 
 https://www.tertiarycourses.com.my/advanced-computer-vision-tensorflow-malaysia.html
 
-<p><strong>Module 1 Overview of Computer Vision</strong></p>
+<p><strong>Topic 1 Overview of Computer Vision with Deep Learning</strong></p>
 <ul>
-<li>Computer Vision Tasks</li>
-<li>Computer Vision Applications</li>
-<li>Computer Vision Approaches</li>
+<li>Introduction to Computer Vision</li>
+<li>Computer Vision Business Applications</li>
+<li>Classical vs Deep Learning Computer Vision</li>
 </ul>
-<p><strong>Module 2 ConvNet</strong></p>
+<p><strong>Topic 2 Basic Computer Vision Techniques</strong></p>
 <ul>
-<li>What is ConvNET?</li>
-<li>ConvNET Architecture</li>
-<li>Image Classification with ConvNET</li>
-<li>ConvNET with Small Datasets</li>
-<li>Overfitting - Dropout &amp; Data Augmentation</li>
-<li>Visualize ConvNET Layer</li>
+<li>Setup Portable Mini Computer Board</li>
+<li>Setup Camera</li>
+<li>Setup OpenCV</li>
+<li>Image Processing with OpenCV</li>
 </ul>
-<p><strong>Module 3 Transfer Learning</strong></p>
+<p><strong>Topic 3 Image Classification</strong></p>
 <ul>
-<li>What is Transfer Learning</li>
-<li>Pre-Trained Models</li>
-<li>Data Augmentation</li>
-<li>Fine Tune Pre-Trained Models</li>
-<li>Visualize VGG16 layers</li>
+<li>Introduction to Deep Learning and Neural Network</li>
+<li>Overview of Convolutional Neural Network (CNN)</li>
+<li>Pre-Trained Vision Models</li>
+<li>Image Classification with Pre-Trained CNN</li>
 </ul>
-<p><strong>Module 4 R-CNN</strong></p>
+<p><strong>Topic 4 Object Detection</strong></p>
 <ul>
-<li>R-CNN</li>
-<li>Fast R-CNN</li>
-<li>Faster R-CNN</li>
-<li>Mask R-CNN</li>
-<li>Mask R-CNN Demo</li>
+<li>Overview of Single Shot Detector (SSD) Object Detection Technique</li>
+<li>Object Detection and Video Tracking with SSD</li>
+<li>Overview of YOLO Object Detection Technique</li>
+<li>Object Detection and Video Tracking using YOLO</li>
+<li>Basic Video Analytics</li>
 </ul>
-<p><strong>Module 5 YOLO</strong></p>
+<p><strong>Topic 5 Computer Vision Systems</strong></p>
 <ul>
-<li>What is YOLO</li>
-<li>YOLO Algorithm</li>
-<li>Anchor Boxes</li>
-<li>IOU</li>
-<li>Non Max Suppression</li>
-<li>YOLO v3 Demo</li>
+<li>Edge Based Vision System</li>
+<li>Cloud Based Vision System</li>
+</ul>
+
+<p><strong>Final Assessment</strong></p>
+<ul>
+<li>Written Assessment(Q&amp;A)</li>
+<li>Practicum Performance</li>
 </ul>
