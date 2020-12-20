@@ -1,5 +1,5 @@
 # Advanced Computer Vision Training
-## by [Tertiary Infotech Pte. Ltd](https://www.tertiarycourses.com.sg/)
+## by [Tertiary Courses](https://www.tertiarycourses.com.sg/)
 
 These are the exercise files used for [Advanced Computer Vision Training](https://www.tertiarycourses.com.sg/advanced-computer-vision-tensorflow.html) course. 
 
